@@ -1,2 +1,2 @@
 # cigar-social
-Iot Humidor
+IoT Humidor for monitoring cigar humidity
